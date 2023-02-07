@@ -21,6 +21,13 @@
             <label class="form-label">GitHub: </label>
             <input type="text" name="github_link" class="form-control">
 
+            <label class="form-label">Categoria</label>
+            <select name="type_id" class="form-control">
+                <option>merda</option>
+                <option>merda</option>
+                <option>merda</option>
+            </select>
+
             <div class="mt-4">
                 <button type="submit" class="btn btn-primary me-3">Aggiungi</button>
             </div>
